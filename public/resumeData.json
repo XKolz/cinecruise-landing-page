@@ -1,46 +1,47 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "name":"CineCruise Project",
+    "description":"CineCruise is a React-based movie website that allows users to search for movies by title, sort them by genre, view trending and upcoming movies,see the trailer of the movies and bookmark their favorite movies. The website is designed to be user-friendly and visually appealing.This web app can fetch movies from the MovieDB API and its IMDB rating and presentation nicely",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "bio":"I'm Samuel, a software developement engineer specializing in creating dynamic web applications. With expertise in both front-end and back-end development, I bring a comprehensive approach to building efficient solutions. On the front-end, I have a strong command of HTML, CSS, and JavaScript, and skilled in popular libraries and frameworks like React, Angular and Vue.Js. I enjoy crafting user interfaces that provide an exceptional user experience. On the back-end, I'm proficient in server-side languages such as Node.js and Python, and I have experience working with databases like MySQL and MongoDB. I'm also well-versed in RESTful APIs and know how to integrate third-party services effectively.",
+    "bio1":"At Cinecruise, we want to amuse the world. We provide access to top-tier TV shows, documentaries, feature films, regardless of your preferences or location. The website allows users to search for movies by title, sort them by genre, view trending and upcoming movies,see the trailer of the movies and bookmark their favorite movies. Stay updated with the latest movies trends.",
+    "contactmessage":"Biko! You fit send me message here, Thank you.",
+    "email": "",
+    "phone": "",
+    "github":"https://github.com/XKolz",
+    "project":"https://cinecruise.netlify.app/",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"React JS, Typescript, Tailwind CSS, HTML5.",
+      "city":"TMDB API",
+      "state":"useState, useEffect, Movie-trailer, React-youtube, React-router, Axios",
+      "zip": "Languages: HTML5, CSS, Javascript. Platforms: RapidApi.com, Youtube.   Frameworks: ReactJS, Tailwind CSS. Hardware: Laptop."
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "1http://www.timbakerdev.com",
+    "resumedownload":"1http://timbakerdev.com",
     "social":[
       {
         "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://facebook.com",
         "className":"fa fa-facebook"
       },
       {
         "name":"twitter",
-        "url":"http://twitter.com",
+        "url":"http://twitter.com/etherealkhay",
         "className":"fa fa-twitter"
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/samuel-igbekele-441864171/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"https://instagram.com/etherealkhay?igshid=OGQ5ZDc2ODk2ZA==",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/XKolz",
         "className":"fa fa-github"
       }
     ]
@@ -109,76 +110,52 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
+        "title":"HomePage",
+        "category":"Screenshot1",
         "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "url":"1https://www.canadianwanderlust.com"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
+        "title":"Top rated Series",
+        "category":"Screenshot2",
         "image":"02.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"2http://www.timbakerdev.com"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
+        "title":"Reuseable Components",
+        "category":"Screenshot3",
         "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "url":"3http://www.timbakerdev.com/originalthaifood.github.io"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
+        "title":"Mobile View",
+        "category":"Screenshot4",
         "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"4http://www.timbakerdev.com"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "title":"Movie Database",
+        "category":"Screenshot5",
         "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
+        "url":"5http://www.smirkspace.com"
       },
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
+        "title":"Movie Description",
+        "category":"Screenshot6",
         "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "url":"6https://www.canadianwanderlust.com"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"01.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Full Screen Mode",
+        "category":"Screenshot1",
+        "image":"07.jpg",
+        "url":"1https://www.canadianwanderlust.com"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Youtube View Integration",
+        "category":"Screenshot2",
+        "image":"08.jpg",
+        "url":"2http://www.timbakerdev.com"
       }
     ]
   }
